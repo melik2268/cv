@@ -14,7 +14,7 @@
 
 body {
 
-    background-image: url(/assets/images/nasa.jpg);
+    background-image: url(./assets/images/nasa.jpg);
     color: var(--color-body);
     font-family: var(--font-base), sans-serif;
 }
