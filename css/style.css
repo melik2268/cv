@@ -14,7 +14,7 @@
 
 body {
 
-    background-image: url(assets/images/nasa.jpg);
+    background-image: url(../assets/images/nasa.jpg);
     color: var(--color-body);
     font-family: var(--font-base), sans-serif;
 }
@@ -102,7 +102,7 @@ img {
     .navbar {
         min-height: 100vh;
         width: var(--sidbar-width);
-        background: linear-gradient(rgba(17, 30, 57, 0.8),rgba(0, 0, 0, 0.8) ), url(assets/images/nasa.jpg);
+        background: linear-gradient(rgba(17, 30, 57, 0.8),rgba(0, 0, 0, 0.8) ), url(../assets/images/nasa.jpg);
         background-size: cover;
         background-position: center;
     }
